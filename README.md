@@ -3,5 +3,5 @@ Simple generative art bot made with [NodeJS](https://nodejs.org/en/) and [Jimp](
 
 ------------------------
 # Instructions:  
-  > npm install  
-  > node botone.js
+  > $ npm install  
+  > $ node botone.js
